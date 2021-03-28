@@ -1,0 +1,16 @@
+C:\CProjects\TCPchat\TCPchat\bin\Debug\net5.0\TCPchat.exe
+C:\CProjects\TCPchat\TCPchat\bin\Debug\net5.0\TCPchat.deps.json
+C:\CProjects\TCPchat\TCPchat\bin\Debug\net5.0\TCPchat.runtimeconfig.json
+C:\CProjects\TCPchat\TCPchat\bin\Debug\net5.0\TCPchat.runtimeconfig.dev.json
+C:\CProjects\TCPchat\TCPchat\bin\Debug\net5.0\TCPchat.dll
+C:\CProjects\TCPchat\TCPchat\bin\Debug\net5.0\ref\TCPchat.dll
+C:\CProjects\TCPchat\TCPchat\bin\Debug\net5.0\TCPchat.pdb
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.csprojAssemblyReference.cache
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.GeneratedMSBuildEditorConfig.editorconfig
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.AssemblyInfoInputs.cache
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.AssemblyInfo.cs
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.csproj.CoreCompileInputs.cache
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.dll
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\ref\TCPchat.dll
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.pdb
+C:\CProjects\TCPchat\TCPchat\obj\Debug\net5.0\TCPchat.genruntimeconfig.cache
